@@ -13,7 +13,7 @@
 - The book also has a Simplified Chinese edition, [OpenCV 3计算机视觉:Python语言实现](http://hzbook.com/Books/9290.html), translated by Liu Bo, Miao Beibei, and Shi Bin, and published by HZ Books / China Machine Press. This repository might also help readers of OpenCV 3计算机视觉:Python语言实现, but for Chinese-language support please contact HZ Books.
 
 ### Code
-***)) Code is divided in chapters reflecting the samples contained in the book. Feel free to report errors either by:
+- Code is divided in chapters reflecting the samples contained in the book. Feel free to report errors either by:
 * opening an issue on github; or
 * contacting the authors directly (if you don't have a GitHub account).
 
